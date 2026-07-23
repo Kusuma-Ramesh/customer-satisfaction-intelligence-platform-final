@@ -278,6 +278,17 @@ The platform generates:
 
 ---
 
+NOTE
+
+The trained Random Forest model used for prediction exceeds GitHub's
+100 MB file-size limitation.
+
+The complete project runs successfully with the trained model file placed
+inside the models folder.
+
+For demonstration and evaluation purposes, the project has been tested
+locally and all functionalities are working correctly.
+
 ## License
 
 This project has been developed for educational and academic purposes.
