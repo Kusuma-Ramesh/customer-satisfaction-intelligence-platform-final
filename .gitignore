@@ -1,0 +1,45 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Git files
+.git/
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
+
+# Deployment helper files
+scripts/
+reduce_model.py
+test_small_model.py
+
+# Large model file
+models/customer_satisfaction_model_backup.pkl
+
+# Local python cache
+.pytest_cache/
+
+# Mac/Linux temporary files
+*.swp
